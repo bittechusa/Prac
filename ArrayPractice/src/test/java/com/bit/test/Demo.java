@@ -17,7 +17,7 @@ public class Demo {
 	//Array is a container which hold more than one value with same type and fixed size.
 	int a[]=new int[3];//by default every array is an object
 	@Test
-	public void verify() {
+	public void verifyArray() {
 		a[0]=6;
 		a[1]=56;
 		a[2]=34;
